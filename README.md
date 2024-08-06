@@ -7,7 +7,7 @@ This project is an exercise to apply what I have learned about .NET Technology. 
 ## Table of Contents
 
 1. [Roles](#roles)
-2. [Movie)](#movie)
+2. [Movie](#movie)
 3. [Genre](#genre)
 
 ## Roles
